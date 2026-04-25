@@ -1,1 +1,1 @@
-# simulacao-credito-python
+Projeto em Python que simula uma análise básica de crédito com base em renda, histórico e estabilidade profissional. O modelo utiliza regras simples para classificar clientes em aprovado, em análise ou negado, inspirado em critérios utilizados no mercado financeiro.
